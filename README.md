@@ -1,8 +1,5 @@
 # Event Booking Web Application 
 
-* Backend deployment - https://ticket-a8ez.onrender.com
-* Frontend deployment - https://ticket-booking-app-iklx.vercel.app/
-
 ## Description:
 
 The Event Booking Web Application is a modern, user-friendly platform that simplifies event discovery, booking, and management. This open-source project is designed for event organizers and attendees alike, providing a seamless and efficient experience. 
